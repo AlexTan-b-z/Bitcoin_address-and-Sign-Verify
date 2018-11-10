@@ -1,8 +1,8 @@
 # go实现椭圆曲线加解密、签名验证算法（go ecdsa库的运用），及生成比特币地址过程讲解、BASE58实现
 
-*作者: AlexTan*  
-*CSDN:   http://blog.csdn.net/alextan_* 
-*Github: https://github.com/AlexTan-b-z* 
+*作者: AlexTan* 
+*CSDN:   http://blog.csdn.net/alextan_*  
+*Github: https://github.com/AlexTan-b-z*  
 *e-mail: alextanbz@gmail.com*
 
 
