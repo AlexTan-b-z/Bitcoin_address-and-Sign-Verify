@@ -9,19 +9,16 @@
 
 ## 前言
 
-椭圆曲线原理参考(讲解得很易懂): http://blog.51cto.com/11821908/2057726 
+- 椭圆曲线原理参考(讲解得很易懂): http://blog.51cto.com/11821908/2057726 
+- ecdsa中文文档：https://studygolang.com/pkgdoc
 
-ecdsa中文文档：https://studygolang.com/pkgdoc
-
-
-
-本文主要讲解使用Go的ecdsa库实现椭圆曲线加解密、签名、验证算法，同时通过公钥生成比特币地址，具体代码逻辑参考bitcoin0.1的key.h、base58.h。
+- 本文主要讲解使用Go的ecdsa库实现椭圆曲线加解密、签名、验证算法，同时通过公钥生成比特币地址，具体代码逻辑参考bitcoin0.1的key.h、base58.h。
 
 
 
-[原文博客地址]()：
+- [原文博客地址]()：
 
-喜欢可以Star支持一下哦！
+- 喜欢可以Star支持一下哦！
 
 
 
